@@ -13,6 +13,7 @@ public class Run {
 		
 		String input = "input";
 		String output = "output";
+		System.out.println("hello");
 
 		int min_utility = 30;  // 
 		
